@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.vel9studios.levani.jokes.test.JokeBOTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-09-22T02:36:20" hostname="levan-iordanishvilis-macbook-pro-15.local" time="0.019">
+  <properties/>
+  <testcase name="test" classname="com.vel9studios.levani.jokes.test.JokeBOTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

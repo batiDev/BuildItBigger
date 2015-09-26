@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instructions">Build it Bigger is an exercise in gradle-based architecture, developed for Udacity\'s Android Nanodegree</string>
+    <string name="button_text">Tell Me Jokes</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--https://jokecloud-1070.appspot.com/-->
+    <string name="local_server_address">http://10.0.10.59:8080</string>
+</resources>
