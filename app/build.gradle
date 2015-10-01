@@ -29,7 +29,6 @@ android {
         paid {
             applicationId "com.vel9studios.levani.builditbigger.paid"
         }
-        //http://stackoverflow.com/a/30799491
     }
 }
 
@@ -39,5 +38,5 @@ dependencies {
     compile 'com.android.support:multidex:1.0.1'
     compile project(':jokelib')
     // Added for AdMob
-    freeCompile 'com.google.android.gms:play-services:7.8.0'
+    freeCompile 'com.google.android.gms:play-services-ads:7.8.0'
 }
